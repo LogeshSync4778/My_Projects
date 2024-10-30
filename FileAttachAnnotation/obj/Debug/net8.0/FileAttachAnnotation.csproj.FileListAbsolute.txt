@@ -1,0 +1,14 @@
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\bin\Debug\net8.0\FileAttachAnnotation.exe
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\bin\Debug\net8.0\FileAttachAnnotation.deps.json
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\bin\Debug\net8.0\FileAttachAnnotation.runtimeconfig.json
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\bin\Debug\net8.0\FileAttachAnnotation.dll
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\bin\Debug\net8.0\FileAttachAnnotation.pdb
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\FileAttachAnnotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\FileAttachAnnotation.AssemblyInfoInputs.cache
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\FileAttachAnnotation.AssemblyInfo.cs
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\FileAttachAnnotation.csproj.CoreCompileInputs.cache
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\FileAttachAnnotation.dll
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\refint\FileAttachAnnotation.dll
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\FileAttachAnnotation.pdb
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\FileAttachAnnotation.genruntimeconfig.cache
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\FileAttachAnnotation\obj\Debug\net8.0\ref\FileAttachAnnotation.dll

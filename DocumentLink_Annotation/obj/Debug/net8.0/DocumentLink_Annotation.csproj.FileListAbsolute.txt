@@ -1,0 +1,14 @@
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\DocumentLink_Annotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\DocumentLink_Annotation.AssemblyInfoInputs.cache
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\DocumentLink_Annotation.AssemblyInfo.cs
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\DocumentLink_Annotation.csproj.CoreCompileInputs.cache
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\bin\Debug\net8.0\DocumentLink_Annotation.exe
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\bin\Debug\net8.0\DocumentLink_Annotation.deps.json
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\bin\Debug\net8.0\DocumentLink_Annotation.runtimeconfig.json
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\bin\Debug\net8.0\DocumentLink_Annotation.dll
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\bin\Debug\net8.0\DocumentLink_Annotation.pdb
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\DocumentLink_Annotation.dll
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\refint\DocumentLink_Annotation.dll
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\DocumentLink_Annotation.pdb
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\DocumentLink_Annotation.genruntimeconfig.cache
+C:\Users\LogeshSiva\OneDrive - Syncfusion\Desktop\DocumentLink_Annotation\obj\Debug\net8.0\ref\DocumentLink_Annotation.dll

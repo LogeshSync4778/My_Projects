@@ -1,0 +1,44 @@
+%PDF-1.0
+1 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+/OpenAction 2 0 R
+>>
+endobj
+2 0 obj
+<< /S /JavaScript /JS (app.alert("Document Opened!!!")) >>
+endobj
+3 0 obj
+<< /Type /Pages /Count 2 /Kids [ 5 0 R 6 0 R ]
+>>
+endobj
+4 0 obj
+<< /Font <</F1 <</Type /Font /BaseFont /Times-Roman  /Subtype /Type1 >> >> >> 
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources 4 0 R /Contents 7 0 R /Annots [ ] >>
+endobj
+6 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792] /Resources 4 0 R /Contents 8 0 R /Annots [ ] /AA << /O << /S /JavaScript /JS (app.alert('Second Page opened!!!')) >> /C << /S /JavaScript /JS (app.alert('Second Page closed!!!')) >> >>
+>>
+endobj
+7 0 obj
+<< >>
+stream
+BT ET
+
+endstream
+endobj
+8 0 obj
+<< >>
+stream
+BT ET
+
+endstream
+endobj
+xref
+trailer
+<</Root 1 0 R >>
+startxref
+%%EOF

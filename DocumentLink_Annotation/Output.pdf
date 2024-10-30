@@ -1,0 +1,47 @@
+%PDF-1.0
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [ 4 0 R 5 0 R ]
+>>
+endobj
+3 0 obj
+<< /Font <</F1 <</Type /Font /BaseFont /Times-Roman  /Subtype /Type1 >> >> >> 
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources 3 0 R /Contents 6 0 R /Annots [ 8 0 R ] >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources 3 0 R /Contents 7 0 R /Annots [ ] >>
+endobj
+6 0 obj
+<< >>
+stream
+BT ET
+
+endstream
+endobj
+7 0 obj
+<< >>
+stream
+BT ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link
+/Rect [100 600 150 650]
+/Contents (Document link annotation) /C [0 0 1]
+/Dest [5 0 R /XYZ 10 0 5]
+/F 16
+>>
+endobj
+xref
+trailer
+<</Root 1 0 R >>
+startxref
+%%EOF

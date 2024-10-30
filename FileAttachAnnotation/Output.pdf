@@ -1,0 +1,96 @@
+%PDF-1.0
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [ 4 0 R 5 0 R ]
+>>
+endobj
+3 0 obj
+<< /Font <</F1 <</Type /Font /BaseFont /Times-Roman  /Subtype /Type1 >> >> >> 
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources 3 0 R /Contents 6 0 R /Annots [ 8 0 R 11 0 R 14 0 R ] >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources 3 0 R /Contents 7 0 R /Annots [ ] >>
+endobj
+6 0 obj
+<< >>
+stream
+BT ET
+
+endstream
+endobj
+7 0 obj
+<< >>
+stream
+BT ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /FileAttachment
+/Rect [100 570 120 600]
+/Contents (Attached File: Wallpaper.jpg) /Name /Paperclip /C [0 0 1]
+/FS 9 0 R >>
+endobj
+9 0 obj
+<< /Type /Filespec
+/F (Wallpaper.jpg)
+/EF << /F 10 0 R >> >>
+endobj
+10 0 obj
+<< /Type /EmbeddedFile
+/Subtype /Image 
+/Length 65432 >>
+stream
+Hello World !
+endstream
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /FileAttachment
+/Rect [400 570 420 600]
+/Contents (Attached File: Sample.txt) /Name /Graph /C [0 1 0]
+/FS 12 0 R >>
+endobj
+12 0 obj
+<< /Type /Filespec
+/F (Sample.txt)
+/EF << /F 13 0 R >> >>
+endobj
+13 0 obj
+<< /Type /EmbeddedFile
+/Subtype /Text 
+/Length 65432 >>
+stream
+Hello World !
+endstream
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /FileAttachment
+/Rect [550 570 580 590]
+/Contents (Attached File: Sample.txt) /Name /Tag /C [1 1 0]
+/FS 15 0 R >>
+endobj
+15 0 obj
+<< /Type /Filespec
+/F (Sample.txt)
+/EF << /F 16 0 R >> >>
+endobj
+16 0 obj
+<< /Type /EmbeddedFile
+/Subtype /Text 
+/Length 65432 >>
+stream
+Hello World !
+endstream
+endobj
+xref
+trailer
+<</Root 1 0 R >>
+startxref
+%%EOF
