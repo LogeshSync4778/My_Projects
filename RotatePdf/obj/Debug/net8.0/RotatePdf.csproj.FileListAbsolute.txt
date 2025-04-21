@@ -1,0 +1,15 @@
+D:\Git\My_Projects\RotatePdf\bin\Debug\net8.0\RotatePdf.exe
+D:\Git\My_Projects\RotatePdf\bin\Debug\net8.0\RotatePdf.deps.json
+D:\Git\My_Projects\RotatePdf\bin\Debug\net8.0\RotatePdf.runtimeconfig.json
+D:\Git\My_Projects\RotatePdf\bin\Debug\net8.0\RotatePdf.dll
+D:\Git\My_Projects\RotatePdf\bin\Debug\net8.0\RotatePdf.pdb
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.AssemblyInfoInputs.cache
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.AssemblyInfo.cs
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.csproj.CoreCompileInputs.cache
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.sourcelink.json
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.dll
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\refint\RotatePdf.dll
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.pdb
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\RotatePdf.genruntimeconfig.cache
+D:\Git\My_Projects\RotatePdf\obj\Debug\net8.0\ref\RotatePdf.dll
